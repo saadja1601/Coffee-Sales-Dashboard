@@ -1,2 +1,3 @@
-# Coffee-Sales-Dashboard
-Interactive Power BI Dashboard comparing Sales from several years
+# PowerBI Sales Performance Dashboard
+## Interactive Sales Performance Dashboard with Year-over-Year Comparison
+
